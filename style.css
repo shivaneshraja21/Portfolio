@@ -265,6 +265,7 @@ section {
 
 #about {
   position: relative;
+  
 }
 
 .about-containers {
@@ -338,7 +339,7 @@ section {
 
 .article-container {
   display: flex;
-  text-align: center;
+  text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
