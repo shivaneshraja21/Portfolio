@@ -2,6 +2,12 @@
 
 Welcome to my portfolio! This repository showcases my projects and skills as a Web developer. Feel free to explore the projects listed below and reach out if you have any questions or collaboration opportunities.
 
+## Skills
+
+- **Programming Languages:** Java, JavaScript, Python, SQL.
+- **Frameworks/Libraries:** Spring Boot.
+- **Tools/Technologies:** GIT, Github, VS code, IntelliJ.
+
 ## Projects
 
 ### Project 1: House Price Prediction
@@ -21,12 +27,6 @@ Welcome to my portfolio! This repository showcases my projects and skills as a W
 - **Description:** Web application for reviewing the tasks.
 - **Technologies Used:** HTML, CSS, JavaScript.
 - **Link:** https://shivaneshraja21.github.io/Task_Manager/
-
-## Skills
-
-- **Programming Languages:** Java, JavaScript, Python, SQL.
-- **Frameworks/Libraries:** ReactJs.
-- **Tools/Technologies:** GIT, Github, VS code.
 
 ## Contact
 
